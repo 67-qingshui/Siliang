@@ -61,7 +61,8 @@
 
 ### 方式一:直接运行(推荐)
 
-1. 从 Releases 下载 `Siliang.dmg`
+1. 从 [Releases](https://github.com/67-qingshui/Siliang/releases) 下载 `Siliang.dmg`
+   - 最新版:[下载 v1.0.0](https://github.com/67-qingshui/Siliang/releases/download/v1.0.0/Siliang.dmg)
 2. 双击打开,把 `Siliang.app` 拖入「应用程序」
 3. 首次启动按引导创建管理员账号,**务必保存恢复密钥**(忘记密码时靠它找回)
 
